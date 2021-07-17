@@ -356,7 +356,7 @@ echo " ===========================\n";
 
          }else{
 
-         echo color("red","-] Nomor ini udh digunakan cok");
+         echo color("red","-] Nomor inii udh digunakan cok");
 
          echo"\n==================================\n\n";
 
